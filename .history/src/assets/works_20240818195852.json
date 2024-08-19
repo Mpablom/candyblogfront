@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/work1.jpg",
+    "title": "Trabajo 1",
+    "description": "Descripción detallada del trabajo 1 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work1/work1.jpg",
+      "/assets/work1/work2.jpg",
+      "/assets/work1/work3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/work2.jpg",
+    "title": "Trabajo 2",
+    "description": "Descripción detallada del trabajo 2 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work2/work1.jpg",
+      "/assets/work2/work2.jpg",
+      "/assets/work2/work3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/work3.jpg",
+    "title": "Trabajo 3",
+    "description": "Descripción detallada del trabajo 3 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work3/work4.jpg",
+      "/assets/work3/work5.jpg",
+      "/assets/work3/work6.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/assets/work4.jpg",
+    "title": "Trabajo 4",
+    "description": "Descripción detallada del trabajo 4 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work4/work4.jpg",
+      "/assets/work4/work5.jpg",
+      "/assets/work4/work6.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/assets/work5.jpg",
+    "title": "Trabajo 5",
+    "description": "Descripción detallada del trabajo 5 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work5/work7.jpg",
+      "/assets/work5/work8.jpg",
+      "/assets/work5/work1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/assets/work6.jpg",
+    "title": "Trabajo 6",
+    "description": "Descripción detallada del trabajo 6 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work6/work7.jpg",
+      "/assets/work6/work8.jpg",
+      "/assets/work6/work1.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/assets/work7.jpg",
+    "title": "Trabajo 7",
+    "description": "Descripción detallada del trabajo 7 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work7/work2.jpg",
+      "/assets/work7/work4.jpg",
+      "/assets/work7/work6.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/assets/work8.jpg",
+    "title": "Trabajo 8",
+    "description": "Descripción detallada del trabajo 8 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos.",
+    "gallery": [
+      "/assets/work8/work2.jpg",
+      "/assets/work8/work4.jpg",
+      "/assets/work8/work7.jpg"
+    ]
+  }
+]

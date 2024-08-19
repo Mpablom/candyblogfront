@@ -1,0 +1,27 @@
+[
+  {
+    "image": "/assets/work1.jpg",
+    "title": "Trabajo 1",
+    "description": "Descripción detallada del trabajo 1 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos."
+  },
+  {
+    "image": "/assets/work2.jpg",
+    "title": "Trabajo 2",
+    "description": "Descripción detallada del trabajo 2 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos."
+  },
+  {
+    "image": "/assets/work3.jpg",
+    "title": "Trabajo 3",
+    "description": "Descripción detallada del trabajo 3 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos."
+  },
+  {
+    "image": "/assets/work4.jpg",
+    "title": "Trabajo 4",
+    "description": "Descripción detallada del trabajo 4 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos."
+  },
+  {
+    "image": "/assets/work5.jpg",
+    "title": "Trabajo 5",
+    "description": "Descripción detallada del trabajo 5 realizado en el Candybar. Incluye información relevante sobre el proyecto, técnicas utilizadas y resultados obtenidos."
+  }
+]
