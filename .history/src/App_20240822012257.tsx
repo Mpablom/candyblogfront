@@ -1,0 +1,15 @@
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Importa Routes correctamente
+import HomePage from './pages/HomePage';
+
+const App: React.FC = () => {
+  return (
+    <Router>
+      <Routes> {/* Usar el componente Routes */}
+        <Route path="/" element={<HomePage />} />
+      </Routes>
+    </Router>
+  );
+};
+
+export default App;
