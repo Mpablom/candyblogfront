@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-size: 6em;
+  font-family: Roboto;
+  color: black;
+}
+p{
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+  font-family: Roboto;
+  color: black;
+  text-align: center;
+}
+.work-page {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }
+
+.work-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 80px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.work-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 300px;
+  text-align: center;
+}
+
+.work-image {
+  width: 100%;
+  height: auto;
+}
+
+.work-title {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.work-description {
+  font-size: 1em;
+  color: #666;
+  padding: 0 10px 10px;
+}
+TextField{
+  border-radius: 20px !important;
+}
+input{
+  border-radius: 20px !important;
+}
